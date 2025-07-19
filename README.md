@@ -21,3 +21,12 @@ The project consists of:
 - Payment method trends
 
 - Operational inefficiencies
+
+# Database Design  
+
+ Tables
+- customers (CustomerID, Customer_Name, Region, City)
+
+- products (ProductID, Product_Name, Category, Sub_Category)
+
+- orders (Order_ID, Order_Date, CustomerID, ProductID, Sales_Amount, Quantity, Discount_Percentage, Profit, Delivery_Status, Payment_Method)
