@@ -4,20 +4,20 @@ This project involves a comprehensive analysis of retail sales data using MySQL.
 #  Project Structure
 The project consists of:
 
-Database creation
+- Database creation
 
-Table creation for customers, products, and orders
+- Table creation for customers, products, and orders
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Sales trends analysis (monthly, quarterly)
+- Sales trends analysis (monthly, quarterly)
 
-Profitability insights
+- Profitability insights
 
-Customer segmentation
+- Customer segmentation
 
-Product performance analysis
+- Product performance analysis
 
-Payment method trends
+- Payment method trends
 
-Operational inefficiencies
+- Operational inefficiencies
