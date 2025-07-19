@@ -8,7 +8,7 @@ The project consists of:
 
 - Table creation for customers, products, and orders
 
-- Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 - Sales trends analysis (monthly, quarterly)
 
